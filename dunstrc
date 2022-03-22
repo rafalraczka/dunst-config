@@ -1,3 +1,8 @@
+# This file is based on the example file included in: file:/etc/dunst/dunstrc
+# supplied with Dunst version 1.8.1.  The default values from the example file
+# are included in the comments with prefix =example default= after all of the
+# changed values.
+
 # See dunst(5) for all configuration options
 
 [global]
